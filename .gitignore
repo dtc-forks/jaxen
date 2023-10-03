@@ -13,3 +13,7 @@ RemoteSystemsTempFiles/
 .idea
 .factorypath
 .apt_generated/
+
+red4j-data/
+**/cp.txt
+**.java.orig
